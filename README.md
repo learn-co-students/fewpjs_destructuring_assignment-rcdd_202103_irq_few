@@ -1,4 +1,4 @@
-# Destructuring Assignment
+lear# Destructuring Assignment
 
 ## Learning Goals
 
